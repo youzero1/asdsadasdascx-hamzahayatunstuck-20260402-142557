@@ -1,0 +1,1 @@
+'completed'\n            ? todo.completed\n            : !todo.completed;\n\n        const matchesPriority =\n          filters.priority
